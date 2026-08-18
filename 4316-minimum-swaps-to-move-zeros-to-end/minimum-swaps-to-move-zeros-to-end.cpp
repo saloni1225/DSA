@@ -12,7 +12,7 @@ public:
             j--;
         }
         if(i>=j){
-            break;
+           break;
         }
     count++;
     i++;
